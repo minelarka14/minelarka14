@@ -1,8 +1,5 @@
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-
 ### Hi there, I'm Muhammad - aka minelarka13 👋
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/minelarka13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fminelarka13&screen_name=minelarka13)
 
 ## I'm a high school student from Singapore!
@@ -11,14 +8,12 @@
 - 📖 2020 Goals: Learn more and contribute more
 - ⚡ Fun fact: I love to cube and i know 3 languages!
 
-
 ### Connect with me:
 
 [<img align="left" alt="minelarka13 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="minelarka13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="minelarka13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
 [<img align="left" alt="minelarka13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
 
 <br />
 
@@ -37,10 +32,8 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minelarka14)](https://github.com/anuraghazra/github-readme-stats)
-
-![Minelarka14's github stats](https://github-readme-stats.vercel.app/api?username=minelarka14&show_icons=true)
-
+<img align="left" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minelarka14" />
+<img align="left" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=minelarka14&show_icons=true" />
 
 [twitter]: https://twitter.com/minelarka13
 [reddit]: https://www.reddit.com/user/minelarka13
