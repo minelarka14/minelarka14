@@ -44,7 +44,6 @@
 <br />
 
 <img align="left" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minelarka14" />
-<img align="left" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minelarka14" />
 <img align="left" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=minelarka14&show_icons=true" />
 
 [twitter]: https://twitter.com/minelarka13
