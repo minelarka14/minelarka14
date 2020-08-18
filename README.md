@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-### Hi there, I'm Muhammad - aka minelarka13 👋
+### Hi there, I'm Muhammad - aka minelarka14 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/minelarka14?style=flat-square&label=Follow)](https://github.com/minelarka14/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/minelarka13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fminelarka13&screen_name=minelarka13)
@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="minelarka13 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="minelarka13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="minelarka13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
-[<img align="left" alt="minelarka13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="minelarka13" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="minelarka13" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="minelarka13" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
+[<img align="left" alt="minelarka13" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
 
