@@ -29,7 +29,6 @@
 <img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="GitHub" width="26px" src="python.svg" />
 
 <br />
 <br />
