@@ -23,13 +23,13 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="bootstrap-plain.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/bootstrap-plain.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="electron-original.svg" />
-<img align="left" alt="Python" width="26px" src="python-original.svg" />
-<img align="left" alt="PSQL" width="26px" src="postgresql-original-wordmark.svg" />
-<img align="left" alt="Swift" width="26px" src="swift-original.svg" />
-<img align="left" alt="Git" width="26px" src="git-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/electron-original.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/python-original.svg" />
+<img align="left" alt="PSQL" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/postgresql-original-wordmark.svg" />
+<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/swift-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 <br />
