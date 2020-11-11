@@ -2,9 +2,9 @@
 
 ### Hi there, I'm Muhammad - aka minelarka14 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/minelarka14?style=flat-square&label=Follow)](https://github.com/minelarka14/)
+[![GitHub followers](https://img.shields.io/github/followers/minelarka14?style=for-the-badge&label=Follow)](https://github.com/minelarka14/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/minelarka13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fminelarka13&screen_name=minelarka13)
-[![Gmail Badge](https://img.shields.io/badge/-muhammadosaid06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadosaid06@gmail.com)](mailto:muhammadosaid06@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-muhammadosaid06@gmail.com-c14438?&logo=Gmail&logoColor=white&link=mailto:muhammadosaid06@gmail.com&style=for-the-badge)](mailto:muhammadosaid06@gmail.com)
 <img align="left" alt="GitHub Stats"  src="https://img.shields.io/github/last-commit/N-HJ/N-HJ?style=for-the-badge" />
 
 <img align="left" alt="GitHub Stats"  src="https://img.shields.io/github/commit-activity/y/N-HJ/N-HJ?style=for-the-badge" />
@@ -45,6 +45,7 @@
 
 <br />
 
+<img align="left" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minelarka14" />
 <img align="left" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=minelarka14&show_icons=true" />
 
 [twitter]: https://twitter.com/minelarka13
