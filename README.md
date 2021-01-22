@@ -10,8 +10,7 @@
 ## I'm a high school student from Singapore!
 
 - 🔭 I’m currently working on learning Game Development!
-- 📖 2020 Goals: Learn more and contribute more
-- ⚡ Fun fact: I love to cube and i know 3 (non-programming)languages!
+- 📖 2021 Goals: Create more amazing projects!
 
 ### Connect with me:
 
@@ -22,27 +21,10 @@
 
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/bootstrap-plain.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/electron-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/python-original.svg" />
-<img align="left" alt="PSQL" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/postgresql-original-wordmark.svg" />
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/swift-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/minelarka14/minelarka14/master/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-
-<br />
-<br />
-
-<br />
-
-<img align="left" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minelarka14" />
-<img align="left" alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=minelarka14&show_icons=true" />
+<img alt="stats" src="https://github.com/minelarka14/minelarka14/blob/master/github-metrics.svg" />
+<img alt="stats" src="https://github.com/minelarka14/minelarka14/blob/master/metrics.plugin.followup.svg" />
+<img alt="stats" src="https://github.com/minelarka14/minelarka14/blob/master/metrics.additional.svg" />
+<img alt="stats" src="https://github.com/minelarka14/minelarka14/blob/master/metrics.plugin.activity.svg" />
 
 [twitter]: https://twitter.com/minelarka13
 [reddit]: https://www.reddit.com/user/minelarka13
