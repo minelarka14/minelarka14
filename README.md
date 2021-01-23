@@ -22,6 +22,7 @@
 <br />
 
 <img alt="stats" src="https://github.com/minelarka14/minelarka14/blob/master/github-metrics.svg" />
+<img alt="stats" src="https://github.com/minelarka14/minelarka14/blob/master/metrics.plugin.isocalendar.fullyear.svg" />
 <img alt="stats" src="https://github.com/minelarka14/minelarka14/blob/master/metrics.plugin.followup.svg" />
 <img alt="stats" src="https://github.com/minelarka14/minelarka14/blob/master/metrics.additional.svg" />
 <img alt="stats" src="https://github.com/minelarka14/minelarka14/blob/master/metrics.plugin.activity.svg" />
